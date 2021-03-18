@@ -1,11 +1,11 @@
 {
     "name": "SWACModPack",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/firestorm942/SWACModPack",
     "description": "ModPack for ServerWithoutACause.",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.800",
-		"Masa-BetterUI-1.5.1",
+		"Masa-BetterUI-1.6.0",
 		"WeylandMod-WeylandMod-1.1.0",
 		"abearcodes-SimpleRecycling-0.0.13",
 		"mgway-PaddlePower-1.0.2",

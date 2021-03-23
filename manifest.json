@@ -1,6 +1,6 @@
 {
     "name": "SWACModPack",
-    "version_number": "1.0.2",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/firestorm942/SWACModPack",
     "description": "ModPack for ServerWithoutACause.",
     "dependencies": [
@@ -12,7 +12,7 @@
 		"Masa-BetterUI-1.6.4",
 		"abearcodes-SimpleRecycling-0.0.13",
 		"mgway-PaddlePower-1.0.2",
-		"RandyKnapp-EquipmentAndQuickSlots-1.0.5",
+		"RandyKnapp-EquipmentAndQuickSlots-2.0.4",
 		"ERROR-BetterDiscordPresence-1.3.1",
 		"kassent-SkillBasedCarryweight-1.0.0"
     ]

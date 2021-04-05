@@ -4,7 +4,7 @@
     "website_url": "https://github.com/firestorm942/SWACModPack",
     "description": "ModPack for ServerWithoutACause.",
     "dependencies": [
-	    "JPster-ValheimAntiCheat-0.0.7"
+	    "JPster-ValheimAntiCheat-0.0.7",
 	    "WeylandMod-WeylandMod_FavoriteServers-1.1.0",
 	    "WeylandMod-WeylandMod_ExtendedStorage-1.1.0",
 	    "WeylandMod-WeylandMod_ItemRadar-1.1.0",

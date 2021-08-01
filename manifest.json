@@ -4,14 +4,14 @@
     "website_url": "https://github.com/firestorm942/SWACModPack",
     "description": "ModPack for ServerWithoutACause.",
     "dependencies": [
-	    "Azumatt-ServerBuddy-1.0.0",
+	    "Azumatt-AzuAntiCheat-1.1.0",
 	    "WeylandMod-WeylandMod_FavoriteServers-1.5.0",
 	    "WeylandMod-WeylandMod_ExtendedStorage-1.5.0",
 	    "WeylandMod-WeylandMod_ItemRadar-1.5.0",
 	    "ValheimPlus-ValheimPlus-9.8.2",
-        "denikson-BepInExPack_Valheim-5.4.1100",
+        "denikson-BepInExPack_Valheim-5.4.1400",
         "Masa-BetterUI-2.0.2",
-	    "RandyKnapp-EquipmentAndQuickSlots-2.0.9",
+	    "RandyKnapp-EquipmentAndQuickSlots-2.0.11",
 	    "ERROR-BetterDiscordPresence-1.3.1"
     ]
 }

@@ -1,9 +1,10 @@
 {
     "name": "SWACModPack",
-    "version_number": "2.0.1",
+    "version_number": "2.0.2",
     "website_url": "https://github.com/firestorm942/SWACModPack",
     "description": "ModPack for ServerWithoutACause.",
     "dependencies": [
+      "thedefside-BetterUI_Reforged-2.0.5",
       "ValheimModding-HookGenPatcher-0.0.3",
       "mgway-HostnameConnect-1.0.1",
 	    "WeylandMod-WeylandMod_FavoriteServers-1.6.0",

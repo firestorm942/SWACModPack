@@ -1,23 +1,15 @@
 {
     "name": "SWACModPack",
-<<<<<<< HEAD
     "version_number": "2.0.3",
     "website_url": "https://github.com/firestorm942/SWACModPack",
     "description": "ModPack for ServerWithoutACause.",
     "dependencies": [
       "thedefside-BetterUI_Reforged-2.1.0",
-=======
-    "version_number": "2.0.2",
-    "website_url": "https://github.com/firestorm942/SWACModPack",
-    "description": "ModPack for ServerWithoutACause.",
-    "dependencies": [
-      "thedefside-BetterUI_Reforged-2.0.5",
->>>>>>> dd181cdc0caa84a97ae458bab170226b1c2d1faa
       "ValheimModding-HookGenPatcher-0.0.3",
       "mgway-HostnameConnect-1.0.1",
-	    "WeylandMod-WeylandMod_FavoriteServers-1.6.0",
-	    "ValheimPlus-ValheimPlus-9.9.7",
+	  "WeylandMod-WeylandMod_FavoriteServers-1.6.0",
+	  "ValheimPlus-ValheimPlus-9.9.7",
       "denikson-BepInExPack_Valheim-5.4.1900",
-	    "RandyKnapp-EquipmentAndQuickSlots-2.0.14"
+	  "RandyKnapp-EquipmentAndQuickSlots-2.0.14"
     ]
 }

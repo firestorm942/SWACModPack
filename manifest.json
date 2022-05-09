@@ -4,11 +4,11 @@
     "website_url": "https://github.com/firestorm942/SWACModPack",
     "description": "ModPack for ServerWithoutACause.",
     "dependencies": [
-      "thedefside-BetterUI_Reforged-2.1.0",
+      "thedefside-BetterUI_Reforged-2.2.1",
       "ValheimModding-HookGenPatcher-0.0.3",
       "mgway-HostnameConnect-1.0.1",
 	  "WeylandMod-WeylandMod_FavoriteServers-1.6.0",
-	  "ValheimPlus-ValheimPlus-9.9.7",
+	  "ValheimPlus-ValheimPlus-9.9.8",
       "denikson-BepInExPack_Valheim-5.4.1900",
 	  "RandyKnapp-EquipmentAndQuickSlots-2.0.14"
     ]

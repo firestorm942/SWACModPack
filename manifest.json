@@ -1,6 +1,6 @@
 {
     "name": "SWACModPack",
-    "version_number": "2.0.7",
+    "version_number": "2.0.8",
     "website_url": "https://github.com/firestorm942/SWACModPack",
     "description": "ModPack for ServerWithoutACause.",
     "dependencies": [
@@ -10,6 +10,7 @@
       "mgway-HostnameConnect-1.0.1",
 	  "ValheimPlus-ValheimPlus-9.9.8",
       "denikson-BepInExPack_Valheim-5.4.1900",
-      "Tekla-DungeonReset-5.4.1605"
+      "Tekla-DungeonReset-5.4.1605",
+      "ValheimModding-Jotunn-2.6.7"
     ]
 }

@@ -1,18 +1,18 @@
 {
     "name": "SWACModPack",
-    "version_number": "2.0.13",
+    "version_number": "2.0.14",
     "website_url": "https://github.com/firestorm942/SWACModPack",
     "description": "ModPack for ServerWithoutACause.",
     "dependencies": [
-	  "Azumatt-AzuAntiCheat-2.1.0",
-      "thedefside-BetterUI_Reforged-2.2.1",
+	  "Azumatt-AzuAntiCheat-4.1.0",
+      "thedefside-BetterUI_Reforged-2.3.2",
       "ValheimModding-HookGenPatcher-0.0.3",
       "mgway-HostnameConnect-1.0.1",
-	  "ValheimPlus-ValheimPlus-9.9.8",
+	  "ValheimPlus-ValheimPlus-9.9.11",
       "denikson-BepInExPack_Valheim-5.4.1901",
       "Tekla-DungeonReset-5.4.1605",
-      "ValheimModding-Jotunn-2.7.6",
-      "Smoothbrain-TargetPortal-1.1.3",
-      "Smoothbrain-Groups-1.1.9"
+      "ValheimModding-Jotunn-2.10.1",
+      "Smoothbrain-TargetPortal-1.1.6",
+      "Smoothbrain-Groups-1.1.11"
     ]
 }

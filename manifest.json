@@ -1,6 +1,6 @@
 {
     "name": "SWACModPack",
-    "version_number": "3.0.2",
+    "version_number": "3.0.3",
     "website_url": "https://github.com/firestorm942/SWACModPack",
     "description": "ModPack for ServerWithoutACause.",
     "dependencies": [
@@ -17,7 +17,6 @@
       "Azumatt-AllTheBases-1.0.5",
       "Smoothbrain-CreatureLevelAndLootControl-4.5.6",
       "Smoothbrain-TimedItemDestruction-1.0.2",
-      "blacks7ar-FoodDurationMultiplier-1.0.7",
       "Marf-FuelEternal-1.2.1",
       "Azumatt-AzuAreaRepair-1.1.1",
       "Azumatt-PerfectPlacement-1.1.4",

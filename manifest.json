@@ -1,6 +1,6 @@
 {
     "name": "SWACModPack",
-    "version_number": "3.0.3",
+    "version_number": "3.1.2",
     "website_url": "https://github.com/firestorm942/SWACModPack",
     "description": "ModPack for ServerWithoutACause.",
     "dependencies": [
@@ -28,6 +28,10 @@
       "Smoothbrain-ConfigWatcher-1.0.1",
       "Azumatt-AzuClock-1.0.0",
       "RandyKnapp-EquipmentAndQuickSlots-2.1.6",
-      "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0"
+      "Azumatt-Official_BepInEx_ConfigurationManager-18.0.0",
+      "Azumatt-Recycle_N_Reclaim-1.1.1",
+      "MSchmoecker-MultiUserChest-0.5.2",
+      "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.0",
+      "Smoothbrain-Groups-1.1.16"
     ]
 }
